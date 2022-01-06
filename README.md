@@ -4,7 +4,7 @@ A basic fundraising web application for kids foundation.This project includes pa
 Flow of the website: Home > About us > Contact us > Home > Donate Now > Payment Details > Payment Method > Pay.
 
 
-
+<br />
 For Demo use :- 
 
 -Mastercard Domestic<br />
@@ -14,9 +14,9 @@ For Demo use :-
 4111 1111 1111 1111
 
 -Mastercard International<br />
-5555 5555 5555 4444
+5555 5555 5555 4444<br />
 5105 1051 0510 5100
 
 -Visa International<br />
-4012 8888 8888 1881
+4012 8888 8888 1881<br />
 4000 1841 8621 8826
