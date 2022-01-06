@@ -1,7 +1,6 @@
 # Payment-Gateway
 
 A basic fundraising web application for kids foundation.This project includes payment gateway integration using razorpay API (test payments are used).Stack used (Front-end): HTML, CSS, Bootstrap & Javascript.
-
 Flow of the website: Home > About us > Contact us > Home > Donate Now > Payment Details > Payment Method > Pay.
 
 
